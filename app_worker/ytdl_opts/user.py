@@ -5,3 +5,5 @@ More here https://github.com/yt-dlp/yt-dlp/blob/master/yt_dlp/options.py or 'yt-
 
 Copy all content from the `default.py` here and edit values.
 """
+
+format:'best[height<=720]'
